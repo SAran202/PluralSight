@@ -1,0 +1,16 @@
+﻿@model IEnumerable<FirstASPWebData.Models.Restaurant>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.Net</h1>
+    <div>There are @Model.Count() restaurant in this site</div>
+</div>
+<ul>
+    @foreach(var restaurant in Model)
+            {
+                <li>@restaurant.Name</li>
+            }
+</ul>
