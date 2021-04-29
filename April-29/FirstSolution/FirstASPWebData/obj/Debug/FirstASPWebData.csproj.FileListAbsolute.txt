@@ -1,0 +1,6 @@
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\bin\Debug\FirstASPWebData.dll
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\bin\Debug\FirstASPWebData.pdb
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\obj\Debug\FirstASPWebData.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\obj\Debug\FirstASPWebData.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\obj\Debug\FirstASPWebData.dll
+C:\Users\Rasika\source\repos\FirstSolution\FirstASPWebData\obj\Debug\FirstASPWebData.pdb
