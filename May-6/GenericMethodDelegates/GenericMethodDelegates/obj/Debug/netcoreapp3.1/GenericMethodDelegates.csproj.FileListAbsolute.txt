@@ -1,0 +1,13 @@
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.AssemblyInfoInputs.cache
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.AssemblyInfo.cs
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.exe
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.deps.json
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.runtimeconfig.json
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.runtimeconfig.dev.json
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.dll
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\bin\Debug\netcoreapp3.1\GenericMethodDelegates.pdb
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.dll
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.pdb
+C:\Users\Rasika\source\repos\GenericMethodDelegates\GenericMethodDelegates\obj\Debug\netcoreapp3.1\GenericMethodDelegates.genruntimeconfig.cache
