@@ -1,0 +1,7 @@
+C:\Users\Rasika\source\repos\Tips\Tips\bin\Debug\Tips.exe.config
+C:\Users\Rasika\source\repos\Tips\Tips\bin\Debug\Tips.exe
+C:\Users\Rasika\source\repos\Tips\Tips\bin\Debug\Tips.pdb
+C:\Users\Rasika\source\repos\Tips\Tips\obj\Debug\Tips.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\Tips\Tips\obj\Debug\Tips.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\Tips\Tips\obj\Debug\Tips.exe
+C:\Users\Rasika\source\repos\Tips\Tips\obj\Debug\Tips.pdb

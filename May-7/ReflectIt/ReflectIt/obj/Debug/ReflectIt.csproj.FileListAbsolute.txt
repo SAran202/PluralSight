@@ -1,0 +1,7 @@
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe.config
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\bin\Debug\ReflectIt.pdb
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\obj\Debug\ReflectIt.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\obj\Debug\ReflectIt.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\obj\Debug\ReflectIt.exe
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt\obj\Debug\ReflectIt.pdb

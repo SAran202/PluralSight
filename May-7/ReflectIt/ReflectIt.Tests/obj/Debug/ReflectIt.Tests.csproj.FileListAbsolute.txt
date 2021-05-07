@@ -1,0 +1,17 @@
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\ReflectIt.Tests.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\ReflectIt.Tests.pdb
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\ReflectIt.exe
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\ReflectIt.pdb
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\ReflectIt.exe.config
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\obj\Debug\ReflectIt.Tests.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\obj\Debug\ReflectIt.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\obj\Debug\ReflectIt.Tests.csproj.CopyComplete
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\obj\Debug\ReflectIt.Tests.dll
+C:\Users\Rasika\source\repos\ReflectIt\ReflectIt.Tests\obj\Debug\ReflectIt.Tests.pdb
