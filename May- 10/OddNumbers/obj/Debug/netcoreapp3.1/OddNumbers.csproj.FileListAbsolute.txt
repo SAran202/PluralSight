@@ -1,0 +1,13 @@
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.exe
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.deps.json
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.runtimeconfig.json
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.runtimeconfig.dev.json
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.dll
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.pdb
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.AssemblyInfo.cs
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.dll
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.pdb
+C:\Users\Rasika\source\repos\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.genruntimeconfig.cache

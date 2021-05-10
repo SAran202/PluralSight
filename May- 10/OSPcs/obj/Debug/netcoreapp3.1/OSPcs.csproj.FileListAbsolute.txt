@@ -1,0 +1,13 @@
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.exe
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.deps.json
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.runtimeconfig.json
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.runtimeconfig.dev.json
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.dll
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\bin\Debug\netcoreapp3.1\OSPcs.pdb
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.AssemblyInfoInputs.cache
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.AssemblyInfo.cs
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.dll
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.pdb
+C:\Users\Rasika\source\repos\OddNumbers\OSPcs\obj\Debug\netcoreapp3.1\OSPcs.genruntimeconfig.cache
