@@ -1,0 +1,13 @@
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.csprojAssemblyReference.cache
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.AssemblyInfoInputs.cache
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.AssemblyInfo.cs
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.csproj.CoreCompileInputs.cache
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.exe
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.deps.json
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.runtimeconfig.json
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.runtimeconfig.dev.json
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.dll
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\bin\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.pdb
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.dll
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.pdb
+C:\Users\Rasika\source\repos\StockAnalyzer.AttachedDetatched\StockAnalyzer.AttachedDetatched\obj\Debug\netcoreapp3.1\StockAnalyzer.AttachedDetatched.genruntimeconfig.cache
