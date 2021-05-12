@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbdC9Dn9mzlVdW/8TtIiwxQyqxtpfz9rWMK14SAr8doce/cfuOQEekDxi3sinahmw48c+he8c/MYfnsukqPwcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasika\\Downloads\\applying-asynchronous-programming-c-sharp-main\\applying-asynchronous-programming-c-sharp-main\\src\\Windows\\06\\Start_Here\\StockAnalyzer.Windows.Core\\StockAnalyzer.Windows.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasika\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
