@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXhhI3ktaVjZUgAakUk5FDlkmWQaTnf8wdoDfRjbeoMcaNkXOy7vel3iMRacK7TjNv2x6txEpFIn8vfdmJyd9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srisa\\source\\repos\\DynamoApi\\DynamoApi\\DynamoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srisa\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\srisa\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.30\\awssdk.dynamodbv2.3.7.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
