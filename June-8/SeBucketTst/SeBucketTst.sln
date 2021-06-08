@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeBucketTst", "SeBucketTst\SeBucketTst.csproj", "{93A218A2-4B1B-411C-897B-AE3837C8C38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A218A2-4B1B-411C-897B-AE3837C8C38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A218A2-4B1B-411C-897B-AE3837C8C38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A218A2-4B1B-411C-897B-AE3837C8C38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A218A2-4B1B-411C-897B-AE3837C8C38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3569D5AA-93D8-4986-B103-B935EF345768}
+	EndGlobalSection
+EndGlobal

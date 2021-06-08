@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAekmluLedx4a73rxXZCFa9ouK/7F1yVlpu6Xg4TUouf7fvxOGCc6RI8+CCIS4vlcp3DnoJBg3sl1VAWeH+ROA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srisa\\source\\repos\\FirstAWSLambda\\FirstAWSLambda\\FirstAWSLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srisa\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\srisa\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

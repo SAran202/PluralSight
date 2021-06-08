@@ -1,0 +1,15 @@
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.deps.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.runtimeconfig.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.runtimeconfig.dev.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.pdb
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.csprojAssemblyReference.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.AssemblyInfoInputs.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.AssemblyInfo.cs
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.csproj.CopyComplete
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.pdb
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Release\netcoreapp3.1\linux-x64\FirstAWSLambda.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\FirstAWSLambda.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\FirstAWSLambda.deps.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\FirstAWSLambda.runtimeconfig.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\FirstAWSLambda.pdb
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll

@@ -1,0 +1,15 @@
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\FirstAWSLambda.deps.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\FirstAWSLambda.runtimeconfig.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\FirstAWSLambda.runtimeconfig.dev.json
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\FirstAWSLambda.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\FirstAWSLambda.pdb
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.csprojAssemblyReference.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.AssemblyInfoInputs.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.AssemblyInfo.cs
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.csproj.CopyComplete
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.dll
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.pdb
+C:\Users\srisa\source\repos\FirstAWSLambda\FirstAWSLambda\obj\Debug\netcoreapp3.1\FirstAWSLambda.genruntimeconfig.cache
