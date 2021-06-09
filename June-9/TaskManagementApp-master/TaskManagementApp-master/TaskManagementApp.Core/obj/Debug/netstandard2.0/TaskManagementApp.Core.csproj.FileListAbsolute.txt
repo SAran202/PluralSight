@@ -1,9 +1,0 @@
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.deps.json
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.dll
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.pdb
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.csprojAssemblyReference.cache
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.AssemblyInfoInputs.cache
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.AssemblyInfo.cs
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.csproj.CoreCompileInputs.cache
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.dll
-C:\Users\srisa\Desktop\TaskManagementApp-master\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.pdb
