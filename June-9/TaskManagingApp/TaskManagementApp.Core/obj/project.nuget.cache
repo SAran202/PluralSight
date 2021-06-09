@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PD1TgScKiia3B2OiKSGkwQ724WQeV9iJI4ZQzJoUsgh1TzlW6bpVjy5vtLBhWKQ49KhqY2kE0wam+SNsNo2ypQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srisa\\Desktop\\TaskManagementApp-master\\TaskManagementApp-master\\TaskManagementApp.Core\\TaskManagementApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srisa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\srisa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
